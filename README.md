@@ -20,7 +20,7 @@
 
 
 
-##Tasks futuras:
+## Tasks futuras:
 
 implementar regras da sinuca (por ex: acertar a bola de outro jogador)
 implementar sistema de um contra um
